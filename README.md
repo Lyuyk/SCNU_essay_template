@@ -1,2 +1,2 @@
 # SCNU_essay_template
-markdown template
+a typora latex theme for SCNU
